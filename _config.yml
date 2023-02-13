@@ -1,0 +1,77 @@
+---
+booktitle: Proceedings of The 34th International Conference on Algorithmic Learning
+  Theory
+shortname: ALT
+volume: '201'
+year: '2023'
+start: 2023-02-20
+end: 2022-02-23
+published: 2023-02-13
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ALT-2023
+month: 0
+cycles: false
+bibtex_editor: Agrawal, Shipra and Orabona, Francesco
+editor:
+- given: Shipra
+  family: Agrawal
+- given: Francesco
+  family: Orabona
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 34th International Conference on Algorithmic Learning Theory
+    Held in Singapore on 20 February to 23 February 2022
+
+  Published as Volume 201 by the Proceedings of Machine Learning Research on 13 February 2023.
+
+  Volume Edited by:
+    Shipra Agrawal
+    Francesco Orabona
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 20 Feb--23 Feb
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v201"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v201
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v201
+email: ''
+conference:
+  name: International Conference on Algorithmic Learning Theory
+  url: http://algorithmiclearningtheory.org/alt2023/
+  location: Singapore
+  dates: []
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v201/alt23.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v201/alt23.bib
